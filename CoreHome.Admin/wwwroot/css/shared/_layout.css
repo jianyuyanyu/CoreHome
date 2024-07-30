@@ -1,4 +1,8 @@
-﻿app {
+@view-transition {
+    navigation: auto;
+}
+
+app {
     position: relative;
     display: flex;
     flex-direction: column;
